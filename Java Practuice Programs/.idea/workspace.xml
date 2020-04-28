@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c40190d7-5c2b-4d0f-82ff-653699d6ace3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aVJqCs2WWT1ih4D0ygIZmYUH73" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.Ex31_Sum_of_two_int_equal_to_third_int">
+    <configuration name="Ex27_Reverse_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ex27_Reverse_a_string" />
+      <module name="Java Practice Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex28_count_letters_digits_spaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ex28_count_letters_digits_spaces" />
+      <module name="Java Practice Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex29_creating_a_nw_three_digit_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ex29_creating_a_nw_three_digit_number" />
+      <module name="Java Practice Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex30_Find_the_size_of_specified_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ex30_Find_the_size_of_specified_file" />
+      <module name="Java Practice Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex31_Sum_of_two_int_equal_to_third_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ex31_Sum_of_two_int_equal_to_third_int" />
+      <module name="Java Practice Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Java Practice Programs" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Java Practice Programs" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ex27_Reverse_a_string" />
+      <item itemvalue="Application.Ex28_count_letters_digits_spaces" />
+      <item itemvalue="Application.Ex29_creating_a_nw_three_digit_number" />
+      <item itemvalue="Application.Ex30_Find_the_size_of_specified_file" />
+      <item itemvalue="Application.Ex31_Sum_of_two_int_equal_to_third_int" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex31_Sum_of_two_int_equal_to_third_int" />
+        <item itemvalue="Application.Ex30_Find_the_size_of_specified_file" />
+        <item itemvalue="Application.Ex29_creating_a_nw_three_digit_number" />
+        <item itemvalue="Application.Ex28_count_letters_digits_spaces" />
+        <item itemvalue="Application.Ex27_Reverse_a_string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40190d7-5c2b-4d0f-82ff-653699d6ace3" name="Default Changelist" comment="" />
+      <created>1586815015532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586815015532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587916681411">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="526" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.862@0.0.1603.862" timestamp="1587916681411" />
+    <state x="603" y="322" width="396" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587995158456">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="603" y="322" width="396" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1603.862@0.0.1603.862" timestamp="1587995158456" />
+    <state x="555" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587973106937">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="555" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1603.862@0.0.1603.862" timestamp="1587973106937" />
+    <state width="381" height="726" key="GridCell.Tab.0.bottom" timestamp="1588031879313">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="381" height="726" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1588031879313" />
+    <state width="381" height="726" key="GridCell.Tab.0.center" timestamp="1588031879312">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="381" height="726" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1588031879312" />
+    <state width="381" height="726" key="GridCell.Tab.0.left" timestamp="1588031879312">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="381" height="726" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1588031879312" />
+    <state width="381" height="726" key="GridCell.Tab.0.right" timestamp="1588031879312">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="381" height="726" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1588031879312" />
+    <state x="310" y="76" key="SettingsEditor" timestamp="1587965553769">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="310" y="76" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1587965553769" />
+    <state x="500" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1587963659851">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="500" y="255" key="com.intellij.ide.util.TipDialog/0.0.1603.862@0.0.1603.862" timestamp="1587963659851" />
+    <state x="463" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1587973524303">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="463" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1587973524303" />
+  </component>
+</project>

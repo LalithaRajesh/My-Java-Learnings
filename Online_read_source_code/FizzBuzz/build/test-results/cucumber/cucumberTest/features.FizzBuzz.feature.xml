@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.336323">
+    <testcase classname="FizzBuzz Game play" name="Play FizzBuzz to get Fizz" time="0.33578">
+        <system-out>
+            <![CDATA[Given Create a FizzBuzz game play...........................................passed
+When I play with number 3...................................................passed
+Then The result is "FIZZ"...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="FizzBuzz Game play" name="Play FizzBuzz to get Bizz" time="0.000124">
+        <system-out>
+            <![CDATA[Given Create a FizzBuzz game play...........................................passed
+When I play with number 5...................................................passed
+Then The result is "BUZZ"...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="FizzBuzz Game play" name="Play FizzBuzz to get Bizz" time="0.000419">
+        <failure message="cucumber.runtime.CucumberException: Arity mismatch: Step Definition 'com.company.FizzBuzzStepdefs.theResultShouldFail(String) in file:/D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/build/classes/java/cucumberTest/' with pattern [^The result should Fail$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. &#10;Step: Then The result should Fail&#13;&#10;&#9;at cucumber.runtime.StepDefinitionMatch.arityMismatch(StepDefinitionMatch.java:102)&#13;&#10;&#9;at cucumber.runtime.StepDefinitionMatch.transformedArgs(StepDefinitionMatch.java:60)&#13;&#10;&#9;at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)&#13;&#10;&#9;at cucumber.runtime.Runtime.runStep(Runtime.java:300)&#13;&#10;&#9;at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)&#13;&#10;&#9;at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)&#13;&#10;&#9;at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)&#13;&#10;&#9;at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)&#13;&#10;&#9;at cucumber.runtime.Runtime.run(Runtime.java:122)&#13;&#10;&#9;at cucumber.api.cli.Main.run(Main.java:36)&#13;&#10;&#9;at cucumber.api.cli.Main.main(Main.java:18)&#13;&#10;">
+            <![CDATA[Given Create a FizzBuzz game play...........................................passed
+When I play with number 2...................................................passed
+Then The result should Fail.................................................failed
+
+StackTrace:
+cucumber.runtime.CucumberException: Arity mismatch: Step Definition 'com.company.FizzBuzzStepdefs.theResultShouldFail(String) in file:/D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/build/classes/java/cucumberTest/' with pattern [^The result should Fail$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. 
+Step: Then The result should Fail
+	at cucumber.runtime.StepDefinitionMatch.arityMismatch(StepDefinitionMatch.java:102)
+	at cucumber.runtime.StepDefinitionMatch.transformedArgs(StepDefinitionMatch.java:60)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
+	at cucumber.runtime.Runtime.run(Runtime.java:122)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+]]>
+        </failure>
+    </testcase>
+</testsuite>

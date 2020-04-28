@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1a27737-b9e8-49d1-8619-fab643670e84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZiVb3voEyiqpsO363b9sB8iHQe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Min_Max_Number_2nd_Method">
+    <configuration name="Four_pack_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Four_pack_problem" />
+      <module name="Parsing_values_from_a_string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Min_Max_Number_2nd_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Min_Max_Number_2nd_Method" />
+      <module name="Parsing_values_from_a_string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Min_and_Max_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Min_and_Max_Number" />
+      <module name="Parsing_values_from_a_string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ReadingUserInput" />
+      <module name="Parsing_values_from_a_string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reading_user_input_Challange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Reading_user_input_Challange" />
+      <module name="Parsing_values_from_a_string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Four_pack_problem" />
+      <item itemvalue="Application.Min_Max_Number_2nd_Method" />
+      <item itemvalue="Application.Min_and_Max_Number" />
+      <item itemvalue="Application.ReadingUserInput" />
+      <item itemvalue="Application.Reading_user_input_Challange" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Min_Max_Number_2nd_Method" />
+        <item itemvalue="Application.Min_and_Max_Number" />
+        <item itemvalue="Application.Reading_user_input_Challange" />
+        <item itemvalue="Application.ReadingUserInput" />
+        <item itemvalue="Application.Four_pack_problem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a27737-b9e8-49d1-8619-fab643670e84" name="Default Changelist" comment="" />
+      <created>1585321969352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585321969352</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1559" height="223" key="GridCell.Tab.0.bottom" timestamp="1585434233070">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="223" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1585434233070" />
+    <state width="1559" height="223" key="GridCell.Tab.0.center" timestamp="1585434233070">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="223" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1585434233070" />
+    <state width="1559" height="223" key="GridCell.Tab.0.left" timestamp="1585434233070">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="223" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1585434233070" />
+    <state width="1559" height="223" key="GridCell.Tab.0.right" timestamp="1585434233070">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="223" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1585434233070" />
+    <state width="1559" height="276" key="GridCell.Tab.1.bottom" timestamp="1585341896206">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="276" key="GridCell.Tab.1.bottom/0.0.1603.862@0.0.1603.862" timestamp="1585341896206" />
+    <state width="1559" height="276" key="GridCell.Tab.1.center" timestamp="1585341896205">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="276" key="GridCell.Tab.1.center/0.0.1603.862@0.0.1603.862" timestamp="1585341896205" />
+    <state width="1559" height="276" key="GridCell.Tab.1.left" timestamp="1585341896205">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="276" key="GridCell.Tab.1.left/0.0.1603.862@0.0.1603.862" timestamp="1585341896205" />
+    <state width="1559" height="276" key="GridCell.Tab.1.right" timestamp="1585341896206">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="276" key="GridCell.Tab.1.right/0.0.1603.862@0.0.1603.862" timestamp="1585341896206" />
+    <state x="500" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1585465618001">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="500" y="254" key="com.intellij.ide.util.TipDialog/0.0.1603.862@0.0.1603.862" timestamp="1585465618001" />
+  </component>
+</project>

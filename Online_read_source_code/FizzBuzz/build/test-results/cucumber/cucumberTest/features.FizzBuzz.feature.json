@@ -1,0 +1,181 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Play FizzBuzz to get Fizz",
+        "description": "",
+        "id": "fizzbuzz-game-play;play-fizzbuzz-to-get-fizz",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 329761300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Create a FizzBuzz game play",
+            "match": {
+              "location": "FizzBuzzStepdefs.createAFizzBuzzGamePlay()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2024399,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I play with number 3",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 19
+                }
+              ],
+              "location": "FizzBuzzStepdefs.iPlayWithNumber(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3994000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "The result is \"FIZZ\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "FIZZ",
+                  "offset": 15
+                }
+              ],
+              "location": "FizzBuzzStepdefs.theResultIs(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "Play FizzBuzz to get Bizz",
+        "description": "",
+        "id": "fizzbuzz-game-play;play-fizzbuzz-to-get-bizz",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 24300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Create a FizzBuzz game play",
+            "match": {
+              "location": "FizzBuzzStepdefs.createAFizzBuzzGamePlay()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 67900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I play with number 5",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 19
+                }
+              ],
+              "location": "FizzBuzzStepdefs.iPlayWithNumber(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 32300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "The result is \"BUZZ\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "BUZZ",
+                  "offset": 15
+                }
+              ],
+              "location": "FizzBuzzStepdefs.theResultIs(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Play FizzBuzz to get Bizz",
+        "description": "",
+        "id": "fizzbuzz-game-play;play-fizzbuzz-to-get-bizz",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 25100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Create a FizzBuzz game play",
+            "match": {
+              "location": "FizzBuzzStepdefs.createAFizzBuzzGamePlay()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 58400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I play with number 2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 19
+                }
+              ],
+              "location": "FizzBuzzStepdefs.iPlayWithNumber(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 335700,
+              "error_message": "cucumber.runtime.CucumberException: Arity mismatch: Step Definition \u0027com.company.FizzBuzzStepdefs.theResultShouldFail(String) in file:/D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/build/classes/java/cucumberTest/\u0027 with pattern [^The result should Fail$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. \nStep: Then The result should Fail\r\n\tat cucumber.runtime.StepDefinitionMatch.arityMismatch(StepDefinitionMatch.java:102)\r\n\tat cucumber.runtime.StepDefinitionMatch.transformedArgs(StepDefinitionMatch.java:60)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)\r\n\tat cucumber.runtime.Runtime.run(Runtime.java:122)\r\n\tat cucumber.api.cli.Main.run(Main.java:36)\r\n\tat cucumber.api.cli.Main.main(Main.java:18)\r\n",
+              "status": "failed"
+            },
+            "line": 16,
+            "name": "The result should Fail",
+            "match": {
+              "location": "FizzBuzzStepdefs.theResultShouldFail(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "FizzBuzz Game play",
+    "description": "",
+    "id": "fizzbuzz-game-play",
+    "keyword": "Feature",
+    "uri": "features/FizzBuzz.feature"
+  }
+]

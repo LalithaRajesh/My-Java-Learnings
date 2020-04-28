@@ -1,0 +1,52 @@
+Feature: FizzBuzz Game play
+
+  Scenario: Play FizzBuzz to get Fizz [90m# D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/src/cucumberTest/resources/features/FizzBuzz.feature:3[0m
+    [32mGiven [0m[32mCreate a FizzBuzz game play[0m [90m# FizzBuzzStepdefs.createAFizzBuzzGamePlay()[0m
+    [32mWhen [0m[32mI play with number [0m[32m[1m3[0m         [90m# FizzBuzzStepdefs.iPlayWithNumber(int)[0m
+    [32mThen [0m[32mThe result is "[0m[32m[1mFIZZ[0m[32m"[0m         [90m# FizzBuzzStepdefs.theResultIs(String)[0m
+
+  Scenario: Play FizzBuzz to get Bizz [90m# D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/src/cucumberTest/resources/features/FizzBuzz.feature:8[0m
+    [32mGiven [0m[32mCreate a FizzBuzz game play[0m [90m# FizzBuzzStepdefs.createAFizzBuzzGamePlay()[0m
+    [32mWhen [0m[32mI play with number [0m[32m[1m5[0m         [90m# FizzBuzzStepdefs.iPlayWithNumber(int)[0m
+    [32mThen [0m[32mThe result is "[0m[32m[1mBUZZ[0m[32m"[0m         [90m# FizzBuzzStepdefs.theResultIs(String)[0m
+
+  Scenario: Play FizzBuzz to get Bizz [90m# D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/src/cucumberTest/resources/features/FizzBuzz.feature:13[0m
+    [32mGiven [0m[32mCreate a FizzBuzz game play[0m [90m# FizzBuzzStepdefs.createAFizzBuzzGamePlay()[0m
+    [32mWhen [0m[32mI play with number [0m[32m[1m2[0m         [90m# FizzBuzzStepdefs.iPlayWithNumber(int)[0m
+    [31mThen [0m[31mThe result should Fail[0m       [90m# FizzBuzzStepdefs.theResultShouldFail(String)[0m
+      [31mcucumber.runtime.CucumberException: Arity mismatch: Step Definition 'com.company.FizzBuzzStepdefs.theResultShouldFail(String) in file:/D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/build/classes/java/cucumberTest/' with pattern [^The result should Fail$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. 
+      Step: Then The result should Fail
+      	at cucumber.runtime.StepDefinitionMatch.arityMismatch(StepDefinitionMatch.java:102)
+      	at cucumber.runtime.StepDefinitionMatch.transformedArgs(StepDefinitionMatch.java:60)
+      	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+      	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+      	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+      	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+      	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+      	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
+      	at cucumber.runtime.Runtime.run(Runtime.java:122)
+      	at cucumber.api.cli.Main.run(Main.java:36)
+      	at cucumber.api.cli.Main.main(Main.java:18)
+      [0m
+
+[31mFailed scenarios:[0m
+[31mD:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/src/cucumberTest/resources/features/FizzBuzz.feature:13 [0m# Scenario: Play FizzBuzz to get Bizz
+
+3 Scenarios ([31m1 failed[0m, [32m2 passed[0m)
+9 Steps ([31m1 failed[0m, [32m8 passed[0m)
+0m0.336s
+
+cucumber.runtime.CucumberException: Arity mismatch: Step Definition 'com.company.FizzBuzzStepdefs.theResultShouldFail(String) in file:/D:/Lalitha/IntelliJIDEA/Online_read_source_code/FizzBuzz/build/classes/java/cucumberTest/' with pattern [^The result should Fail$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. 
+Step: Then The result should Fail
+	at cucumber.runtime.StepDefinitionMatch.arityMismatch(StepDefinitionMatch.java:102)
+	at cucumber.runtime.StepDefinitionMatch.transformedArgs(StepDefinitionMatch.java:60)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
+	at cucumber.runtime.Runtime.run(Runtime.java:122)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+

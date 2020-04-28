@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id 'com.commercehub.cucumber-jvm' version '0.14'
+    id 'jacoco'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+jacoco {
+    toolVersion = "0.8.1"
+}
+
+cucumber {
+    suite('cucumberTest')
+    maxParallelForks = 1
+    tags = [ '~@ignore']
+    junitReport = true
+}
+cucumberTest {
+    description = "Runs the cucumber tests"
+    stepDefinitionRoots = [
+            'com.company'
+    ]
+
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    cucumberTestCompile group: 'info.cukes', name: 'cucumber-java', version: '1.2.5'
+    cucumberTestCompile group: 'info.cukes', name: 'cucumber-junit', version: '1.0.2'
+    cucumberTestCompile group: 'junit', name: 'junit', version: '4.10'
+
+}
